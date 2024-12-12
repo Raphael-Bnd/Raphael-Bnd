@@ -26,7 +26,7 @@ Hello, I'm Raphael Bandeira!
 
 <div style="display: flex; justify-content: center; align-items: center;">
 	<a href="https://github.com/Raphael-Bnd"></a>
-	<img align="center" weight="150cm" height="150cm" alt="GitHub-stats" src="https://github-readme-stats.vercel.app/api?username=raphael-bnd&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+	<img align="center" height="150cm" alt="GitHub-stats" src="https://github-readme-stats.vercel.app/api?username=raphael-bnd&theme=react&show_icons=true&hide_border=true&count_private=true"/>
 	<img align="center" height="150cm" alt="GitHub-Most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-bnd&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
