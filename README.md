@@ -19,7 +19,7 @@ Hello, I'm Raphael Bandeira!
 ## 🤝 Connect with me
 
 <p align="center">
-	<a href="[1contatoraphael@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkjxRMZNDFBwLQwJMdxVcCMRtNZzNcnnNsqstDdFWbZkBzWZTqscpRHLcRLsWhxHmgbklg)"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkjxRMZNDFBwLQwJMdxVcCMRtNZzNcnnNsqstDdFWbZkBzWZTqscpRHLcRLsWhxHmgbklg"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/raphael-bandeira-657851220/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/euraphael.idk/"><img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
