@@ -24,9 +24,11 @@ Hello, I'm Raphael Bandeira!
   <a href="https://www.instagram.com/euraphael.idk/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p>
-	<a href="https://github.com/Raphael-Bnd"><img alt="GitHub-Stats src="https://github-readme-stats.vercel.app/api?username=raphael-bnd&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></a>
-</p>
+<div>
+	<a href="https://github.com/Raphael-Bnd"></a>
+	<img height="180cm" alt="GitHub-stats" src="https://github-readme-stats.vercel.app/api?username=raphael-bnd&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+	<img height="180cm" alt="GitHub-Most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-bnd&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 
 ## 💻 My Tech Stack
 
