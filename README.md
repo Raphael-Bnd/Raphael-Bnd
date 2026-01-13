@@ -8,10 +8,9 @@ Olá! Eu sou Raphael Bandeira
 <hr>
 
 <pre>
-💻 My focus is on becoming a Backend Developer
-📚 I am currently studying Computer Science at the University of Estácio de Sá
-📝 I have a strong interest in Software Engineering
-😃 I look forward to collaborate on impactful projects
+💻 Hoje meu foco é trabalhar com FullStack
+📝 Trabalho com Node, JavaScript e Python
+✉️ Entre em contato no meu email: 1contatoraphael@gmail.com
 </pre>
 <hr>
 
