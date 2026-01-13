@@ -14,7 +14,7 @@ Olá! Eu sou Raphael Bandeira
 </pre>
 <hr>
 
-## 🤝 Connect with me
+## 🤝 Conecte-se comigo
 
 <p align="center">
 	<a href="mailto:1contatoraphael@gmail.com do Email&body=Olá, gostaria de saber mais sobre..."><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
