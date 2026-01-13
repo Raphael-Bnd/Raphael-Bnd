@@ -10,7 +10,7 @@ Olá! Eu sou Raphael Bandeira
 <pre>
 💻 Hoje meu foco é trabalhar com FullStack
 📝 Trabalho com Node, JavaScript e Python
-✉️ Entre em contato no meu email: 1contatoraphael@gmail.com
+✉️ Entre em contato no meu email: <a href="mailto:1contatoraphael@gmail.com">1contatoraphael@gmail.com</a>
 </pre>
 <hr>
 
