@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, I'm Raphael Bandeira!
+Olá! Eu sou Raphael Bandeira
 	<a href="https://github.com/Raphael-Bnd" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -11,7 +11,6 @@ Hello, I'm Raphael Bandeira!
 💻 My focus is on becoming a Backend Developer
 📚 I am currently studying Computer Science at the University of Estácio de Sá
 📝 I have a strong interest in Software Engineering
-🚩 Interested in IA
 😃 I look forward to collaborate on impactful projects
 </pre>
 <hr>
